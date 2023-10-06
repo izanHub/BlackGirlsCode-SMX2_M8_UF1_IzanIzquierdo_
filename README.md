@@ -10,5 +10,3 @@ Black Girls Code se enfoca en enseñar habilidades de tecnología a niñas de co
 
 La organización ha sido reconocida por su trabajo en la promoción de la diversidad en la tecnología y ha sido presentada en varios medios de comunicación. En 2016, CNBC informó que Black Girls Code estaba haciendo progresos en la promoción de la diversidad en la tecnología, y que algunos ex participantes ahora estaban estudiando ciencias de la computación en las mejores universidades.
 
-
-En resumen, Black Girls Code es una organización sin fines de lucro fundada en 2011 por Kimberly Bryant con el objetivo de enseñar habilidades de tecnología a niñas de color. La organización ofrece clases después de la escuela, campamentos de verano y talleres de fin de semana para niñas de entre 7 y 16 años, y tiene programas en todo Estados Unidos. Desde su creación, más de 5,000 niñas han participado en los programas de Black Girls Code, y la organización ha expandido sus programas a nivel internacional.
